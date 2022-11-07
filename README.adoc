@@ -34,7 +34,11 @@ The Learning Path explains and demonstrates all examples in the form of videos. 
     * https://github.com/denmerc/ckad-prep/blob/master/6-services-and-networking.md#restricting-access-to-and-from-a-pod[Restricting Access to and from a Pod]
 7. State Persistence
     * https://github.com/denmerc/ckad-prep/blob/master/7-state-persistence.md#defining-and-mounting-a-persistentvolume[Defining and Mounting a PersistentVolume]
-8. Bonus
+    
+8. Horizontal Autoscaling 
+   * https://speedscale.com/how-to-test-kubernetes-autoscaling/[Example]
+   * https://dev.to/docker/enable-kubernetes-metrics-server-on-docker-desktop-5434[enabling metrics server on docker desktop]
+9. Bonus
     * https://github.com/denmerc/ckad-prep/blob/master/8-bonus.md#shortcuts-and-time-savers[Shortcuts and Time Savers]
     * https://github.com/denmerc/ckad-prep/blob/master/8-bonus.md#bash-commands[Bash Commands]
     * https://github.com/denmerc/ckad-prep/blob/master/8-bonus.md#kubernetes-object-information[Kubernetes Object Information]
